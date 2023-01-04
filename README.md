@@ -3,7 +3,6 @@
 
 - 💻 I'm a passionate iOS Developer 
 
-[comment]: <> (- 📝 I regularly write articles on [https://medium.com/@fatihcyln](https://medium.com/@fatihcyln))
 
 - 💬 Ask me about **Swift, UIKit, SwiftUI**
 
