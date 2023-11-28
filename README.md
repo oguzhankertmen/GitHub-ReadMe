@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Swift, UIKit, SwiftUI**
 
-- 📫 How to reach me **iletisim@oguzhankertmen.com.tr**
+- 📫 How to reach me **oguzhan@kertmen.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
